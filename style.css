@@ -1,0 +1,26 @@
+body {
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vnYGIhZNmAtHnzIhAnp8kwYKcOSz732se2s8vwfmTA&s') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.header-title {
+    color: #ffffff;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+.form-card{
+    background-color: rgba(255, 255, 255, 0.88);
+    border-radius: 8px;
+    padding: 30px;
+    max-width: 850px;
+    margin: 0 auto 40px auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+.footer-bar {
+    background-color: #163a5f;
+    color: #ffffff;
+    font-size: 0.85rem;
+    padding: 8px 0;
+    margin-top: auto;
+}
